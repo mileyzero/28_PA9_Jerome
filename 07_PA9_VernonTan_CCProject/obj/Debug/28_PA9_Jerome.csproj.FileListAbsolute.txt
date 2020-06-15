@@ -8,3 +8,13 @@ C:\Users\Jerome Tan\Desktop\28_PA9_Jerome\28_PA9_Jerome\obj\Debug\28_PA9_Jerome.
 C:\Users\Jerome Tan\Desktop\28_PA9_Jerome\28_PA9_Jerome\obj\Debug\28_PA9_Jerome.csproj.CoreCompileInputs.cache
 C:\Users\Jerome Tan\Desktop\28_PA9_Jerome\28_PA9_Jerome\obj\Debug\28_PA9_Jerome.exe
 C:\Users\Jerome Tan\Desktop\28_PA9_Jerome\28_PA9_Jerome\obj\Debug\28_PA9_Jerome.pdb
+C:\Users\Jerome Tan\Documents\GitHub\28_PA9_Jerome\07_PA9_VernonTan_CCProject\bin\Debug\28_PA9_Jerome.exe.config
+C:\Users\Jerome Tan\Documents\GitHub\28_PA9_Jerome\07_PA9_VernonTan_CCProject\bin\Debug\28_PA9_Jerome.exe
+C:\Users\Jerome Tan\Documents\GitHub\28_PA9_Jerome\07_PA9_VernonTan_CCProject\bin\Debug\28_PA9_Jerome.pdb
+C:\Users\Jerome Tan\Documents\GitHub\28_PA9_Jerome\07_PA9_VernonTan_CCProject\obj\Debug\28_PA9_Jerome.csprojAssemblyReference.cache
+C:\Users\Jerome Tan\Documents\GitHub\28_PA9_Jerome\07_PA9_VernonTan_CCProject\obj\Debug\_28_PA9_Jerome.Form1.resources
+C:\Users\Jerome Tan\Documents\GitHub\28_PA9_Jerome\07_PA9_VernonTan_CCProject\obj\Debug\_28_PA9_Jerome.Properties.Resources.resources
+C:\Users\Jerome Tan\Documents\GitHub\28_PA9_Jerome\07_PA9_VernonTan_CCProject\obj\Debug\28_PA9_Jerome.csproj.GenerateResource.cache
+C:\Users\Jerome Tan\Documents\GitHub\28_PA9_Jerome\07_PA9_VernonTan_CCProject\obj\Debug\28_PA9_Jerome.csproj.CoreCompileInputs.cache
+C:\Users\Jerome Tan\Documents\GitHub\28_PA9_Jerome\07_PA9_VernonTan_CCProject\obj\Debug\28_PA9_Jerome.exe
+C:\Users\Jerome Tan\Documents\GitHub\28_PA9_Jerome\07_PA9_VernonTan_CCProject\obj\Debug\28_PA9_Jerome.pdb
