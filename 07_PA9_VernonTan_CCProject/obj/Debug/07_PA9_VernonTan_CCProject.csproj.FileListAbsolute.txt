@@ -1,0 +1,10 @@
+C:\Users\G11\Desktop\28_PA9_Jerome\bin\Debug\28_PA9_Jerome.exe.config
+C:\Users\G11\Desktop\28_PA9_Jerome\bin\Debug\28_PA9_Jerome.exe
+C:\Users\G11\Desktop\28_PA9_Jerome\bin\Debug\28_PA9_Jerome.pdb
+C:\Users\G11\Desktop\28_PA9_Jerome\obj\Debug\07_PA9_VernonTan_CCProject.csprojAssemblyReference.cache
+C:\Users\G11\Desktop\28_PA9_Jerome\obj\Debug\_28_PA9_Jerome.Form1.resources
+C:\Users\G11\Desktop\28_PA9_Jerome\obj\Debug\_28_PA9_Jerome.Properties.Resources.resources
+C:\Users\G11\Desktop\28_PA9_Jerome\obj\Debug\07_PA9_VernonTan_CCProject.csproj.GenerateResource.cache
+C:\Users\G11\Desktop\28_PA9_Jerome\obj\Debug\07_PA9_VernonTan_CCProject.csproj.CoreCompileInputs.cache
+C:\Users\G11\Desktop\28_PA9_Jerome\obj\Debug\28_PA9_Jerome.exe
+C:\Users\G11\Desktop\28_PA9_Jerome\obj\Debug\28_PA9_Jerome.pdb
